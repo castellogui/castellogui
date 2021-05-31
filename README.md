@@ -16,5 +16,7 @@ Algumas das tecnologias e ferramentas que eu utilizo:
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 ## ⚡ GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castellogui&show_icons=true&theme=material-palenight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=castellogui&show_icons=true&theme=material-palenight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castellogui&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
