@@ -1,4 +1,4 @@
-# Olá, sou Guilherme! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" >
+# Olá, sou Guilherme! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, e Desenvolvedor Full-Stack em construção! :D
 
