@@ -8,7 +8,7 @@ learning to always search the better stack overflow answer :D
 [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/tgzaum/)
 
 
-## 🚀💻 Tecnologias
+## 🚀💻 tech
 Some of the technologies and tools I use:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
