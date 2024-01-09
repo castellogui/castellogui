@@ -1,6 +1,6 @@
-# Olá, sou Guilherme! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
+# hello, i'm castello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, e Desenvolvedor Full-Stack em construção! :D
+learning to always search the better stack overflow answer :D
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/guilherme-castello-57753b1b3/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ocastellogui/)
@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, e Desenvolvedor Full-St
 
 
 ## 🚀💻 Tecnologias
-Algumas das tecnologias e ferramentas que eu utilizo:
+Some of the technologies and tools I use:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
